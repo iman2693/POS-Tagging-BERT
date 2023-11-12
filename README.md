@@ -1,4 +1,7 @@
+![image](POS.jpg)
+
 # POS-Tagging-BERT
+
 Part of Speech Tagging for the Persian dataset using ParsBert and Multilingual BERT 
 
 The repository contains Jupyter notebooks for testing different aspects of a POS-Tagging BERT model. The notebooks include:
