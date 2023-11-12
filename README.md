@@ -3,7 +3,7 @@ Part of Speech Tagging for the Persian dataset using ParsBert and Multilingual B
 
 The repository contains Jupyter notebooks for testing different aspects of a POS-Tagging BERT model. The notebooks include:
 
-Test 1 - ParsBert.ipynb: This notebook tests the ParsBert model on the given dataset.
+** Test 1 - ParsBert.ipynb **: This notebook tests the ParsBert model on the given dataset.
 
 Test 2 - Increase Learning Rate - bad.ipynb: This notebook tests the effect of increasing the learning rate on the performance of the model.
 
