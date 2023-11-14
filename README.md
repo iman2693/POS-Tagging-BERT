@@ -2,7 +2,7 @@
 
 # POS-Tagging-BERT
 
-![./POS.jpg](./POS.jpg)
+![./POS.jpg]()
 
 Part of Speech Tagging for the Persian dataset using ParsBert and Multilingual BERT 
 
